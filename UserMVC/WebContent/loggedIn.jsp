@@ -13,7 +13,7 @@
 %>
 
 <center>
-<br><br>
+<br><br><p>You are logged in....</p>
 		<a href="addUser.jsp">Add a User</a>
 		
 		<br><br>
